@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning AI, Computer Science.
+- 🌱 I’m currently learning **Intelligent Mechatronics Engineering, Computer Science** in **Sejong University** (Seoul, South Korea).
 - 📫 How to reach me: qwerie8899@gmail.com
 
 
