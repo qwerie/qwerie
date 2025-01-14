@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning AI, Computer Science.
+- 📫 How to reach me: qwerie8899@gmail.com
+
+
 <!--
 **qwerie/qwerie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
