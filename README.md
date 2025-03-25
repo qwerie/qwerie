@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning ***Intelligent Mechatronics Engineering, and Computer Science*** in ***Sejong University*** (Seoul, South Korea).
+- ❤  I'm interested in **Data, ML, Vision AI, ROS2**
 - 📫 How to reach me: qwerie8899@gmail.com
 
 
